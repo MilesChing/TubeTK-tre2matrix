@@ -23,6 +23,7 @@
     <ProjectGuid>{A7D4E585-F959-41BB-814B-3ED4F3C334E6}</ProjectGuid>
     <RootNamespace>home</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>tre2matrix</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
